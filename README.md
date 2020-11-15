@@ -22,6 +22,19 @@ Kurset vil passe for deg som har lite eller ingen programmeringserfaring fra fø
 
 I løpet av kurset vil vi ha flere oppgaveøkter. Her vil du ha muligheten til å lage dine egne dataprogram for å løse små oppgaver og du kan få hjelp av en av våre flinke undervisere om du står fast.
 
+## Installer plottefunksjonalitet uten Anaconda
+
+Hvis du ikke har Anaconda-installasjonen av Python, så er det ikke sikkert at din Python installasjon har plottefunksjonalitet innebygd. Derfor kan det være lurt å installere denne muligheten. Dette kan du enten gjøre for alle brukere (krever administratorrettigheter) eller kun for din bruker (krever ikke administratorrettigheter). 
+
+Åpne et terminalvindu ved å trykke på startknappen og søke etter cmd. Da skal det komme opp et program som heter "Command Prompt". Start dette programmet, da skal du få opp et program som ser slik ut:
+
+![](cmd_skjermbilde.png)
+
+Når du har fått opp programmet, skriver du `pip install matplotlib --user` og trykker på <kbd>enter</kbd> knappen. Hvis du får spørsmålet
+
+    Proceed (y/n)?
+
+trykker du på <kbd>y</kbd>-knappen og så på <kbd>enter</kbd>-knappen.
 
 ## Ekstra Ressurser:
 Vi har laget en [ressursguide](ressursguide.md) som du kan se på for å finne gode læringsressurser sortert etter tema. Ressursguiden kan gi deg et startpunkt for å lære alt fra dataanalyse til webutvikling! Ressursguiden finner du [her](ressursguide.md). I tillegg vil vi trekke frem disse tre bøkene, de er alle gratis i digital utgave.
