@@ -24,11 +24,6 @@ I løpet av kurset vil vi ha flere oppgaveøkter. Her vil du ha muligheten til �
 
 
 ## Ekstra Ressurser:
-Offisiel Python dokumentasjon:
-* Nettsiden for all Python dokumentasjon finner du [her](https://docs.python.org/3/library/index.html)
-* [Her](https://docs.python.org/3/py-modindex.html) er en liste over alle innebygde Python pakker (slik som f.eks. `random`) du kan importere fra
-* [Her](https://docs.python.org/3/library/functions.html) er en liste over alle innebygde funksjoner du kan bruke uten å importere (slik som f.eks. `print`)
-
 Vi har laget en [ressursguide](ressursguide.md) som du kan se på for å finne gode læringsressurser sortert etter tema. Ressursguiden kan gi deg et startpunkt for å lære alt fra dataanalyse til webutvikling! Ressursguiden finner du [her](ressursguide.md). I tillegg vil vi trekke frem disse tre bøkene, de er alle gratis i digital utgave.
 
 [Automate the boring stuff with Python](https://automatetheboringstuff.com)
@@ -42,3 +37,8 @@ En gratis e-bok for deg som kan grunnleggende Python, og vil lære hvordan du ka
 
 [Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7)
 En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser", som er et introduksjonsemne i Python programmering ved UiO.
+
+Offisiel Python dokumentasjon:
+* Nettsiden for all Python dokumentasjon finner du [her](https://docs.python.org/3/library/index.html)
+* [Her](https://docs.python.org/3/py-modindex.html) er en liste over alle innebygde Python pakker (slik som f.eks. `random`) du kan importere fra
+* [Her](https://docs.python.org/3/library/functions.html) er en liste over alle innebygde funksjoner du kan bruke uten å importere (slik som f.eks. `print`)
