@@ -17,7 +17,6 @@ Vi har også laget en jukselapp, som inneholder noe av de viktigste konseptene f
 * Løsningsforslag for bonusoppgavene finner du [her](dag1/bonusoppgaver_dag1_losningsforslag.pdf)
 * Koden vi skrev på dag 1 finner du [her](dag1/live_koding)
 
-
 ### Dag 2
 * Oppgaver for dag 2 finner du [her](dag2/oppgaver_dag2.pdf)
 * Bonusoppgaver for dag 2 finner du [her](dag2/bonusoppgaver_dag2.pdf)
